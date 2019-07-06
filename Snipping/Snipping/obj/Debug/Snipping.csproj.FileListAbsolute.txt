@@ -1,0 +1,30 @@
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\bin\Debug\Snipping.exe.config
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\bin\Debug\Snipping.exe
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\bin\Debug\Snipping.pdb
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\obj\Debug\Snipping.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\obj\Debug\Snipping.Form1.resources
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\obj\Debug\Snipping.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\obj\Debug\Snipping.csproj.GenerateResource.Cache
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\obj\Debug\Snipping.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\obj\Debug\Snipping.exe
+C:\Users\CASPER\Desktop\Snipping\Snipping\Snipping\obj\Debug\Snipping.pdb
+C:\Users\CASPER\Desktop\Snipping\Snipping\bin\Debug\Snipping.exe.config
+C:\Users\CASPER\Desktop\Snipping\Snipping\bin\Debug\Snipping.exe
+C:\Users\CASPER\Desktop\Snipping\Snipping\bin\Debug\Snipping.pdb
+C:\Users\CASPER\Desktop\Snipping\Snipping\obj\Debug\Snipping.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Snipping\Snipping\obj\Debug\Snipping.Form1.resources
+C:\Users\CASPER\Desktop\Snipping\Snipping\obj\Debug\Snipping.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Snipping\Snipping\obj\Debug\Snipping.csproj.GenerateResource.Cache
+C:\Users\CASPER\Desktop\Snipping\Snipping\obj\Debug\Snipping.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Snipping\Snipping\obj\Debug\Snipping.exe
+C:\Users\CASPER\Desktop\Snipping\Snipping\obj\Debug\Snipping.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\bin\Debug\Snipping.exe.config
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\bin\Debug\Snipping.exe
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\bin\Debug\Snipping.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\obj\Debug\Snipping.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\obj\Debug\Snipping.Form1.resources
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\obj\Debug\Snipping.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\obj\Debug\Snipping.csproj.GenerateResource.Cache
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\obj\Debug\Snipping.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\obj\Debug\Snipping.exe
+C:\Users\CASPER\Desktop\Chosen One Project\Snipping\Snipping\obj\Debug\Snipping.pdb

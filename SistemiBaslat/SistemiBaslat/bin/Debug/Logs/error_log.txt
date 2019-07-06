@@ -1,0 +1,8 @@
+IP: 95.15.99.245
+MAC: 80:A5:89:BF:71:8F
+WORKGROUP: 
+PC: 
+Hata: WebClient isteği sırasında özel durum oluştu.
+Program: SistemiBaslat
+Tarih: 6.1.18 23:13:25
+------------------------------------

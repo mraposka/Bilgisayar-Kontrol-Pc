@@ -1,0 +1,21 @@
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\ResimleriTemizle\ResimleriTemizle\bin\Debug\ResimleriTemizle.exe.config
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\ResimleriTemizle\ResimleriTemizle\bin\Debug\ResimleriTemizle.exe
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\ResimleriTemizle\ResimleriTemizle\bin\Debug\ResimleriTemizle.pdb
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.exe
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.pdb
+C:\Users\CASPER\Desktop\ResimleriTemizle\ResimleriTemizle\bin\Debug\ResimleriTemizle.exe.config
+C:\Users\CASPER\Desktop\ResimleriTemizle\ResimleriTemizle\bin\Debug\ResimleriTemizle.exe
+C:\Users\CASPER\Desktop\ResimleriTemizle\ResimleriTemizle\bin\Debug\ResimleriTemizle.pdb
+C:\Users\CASPER\Desktop\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.exe
+C:\Users\CASPER\Desktop\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\ResimleriTemizle\ResimleriTemizle\bin\Debug\ResimleriTemizle.exe.config
+C:\Users\CASPER\Desktop\Chosen One Project\ResimleriTemizle\ResimleriTemizle\bin\Debug\ResimleriTemizle.exe
+C:\Users\CASPER\Desktop\Chosen One Project\ResimleriTemizle\ResimleriTemizle\bin\Debug\ResimleriTemizle.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Chosen One Project\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Chosen One Project\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.exe
+C:\Users\CASPER\Desktop\Chosen One Project\ResimleriTemizle\ResimleriTemizle\obj\Debug\ResimleriTemizle.pdb

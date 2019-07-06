@@ -1,0 +1,21 @@
+C:\Users\CASPER\source\repos\SistemiBaslat\SistemiBaslat\bin\Debug\SistemiBaslat.exe.config
+C:\Users\CASPER\source\repos\SistemiBaslat\SistemiBaslat\bin\Debug\SistemiBaslat.exe
+C:\Users\CASPER\source\repos\SistemiBaslat\SistemiBaslat\bin\Debug\SistemiBaslat.pdb
+C:\Users\CASPER\source\repos\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\source\repos\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.exe
+C:\Users\CASPER\source\repos\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.pdb
+C:\Users\CASPER\Desktop\SistemiBaslat\SistemiBaslat\bin\Debug\SistemiBaslat.exe.config
+C:\Users\CASPER\Desktop\SistemiBaslat\SistemiBaslat\bin\Debug\SistemiBaslat.exe
+C:\Users\CASPER\Desktop\SistemiBaslat\SistemiBaslat\bin\Debug\SistemiBaslat.pdb
+C:\Users\CASPER\Desktop\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.exe
+C:\Users\CASPER\Desktop\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\SistemiBaslat\SistemiBaslat\bin\Debug\SistemiBaslat.exe.config
+C:\Users\CASPER\Desktop\Chosen One Project\SistemiBaslat\SistemiBaslat\bin\Debug\SistemiBaslat.exe
+C:\Users\CASPER\Desktop\Chosen One Project\SistemiBaslat\SistemiBaslat\bin\Debug\SistemiBaslat.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Chosen One Project\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Chosen One Project\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.exe
+C:\Users\CASPER\Desktop\Chosen One Project\SistemiBaslat\SistemiBaslat\obj\Debug\SistemiBaslat.pdb

@@ -1,0 +1,21 @@
+c:\users\casper\source\repos\Update\Update\bin\Debug\Update.exe.config
+c:\users\casper\source\repos\Update\Update\bin\Debug\Update.exe
+c:\users\casper\source\repos\Update\Update\bin\Debug\Update.pdb
+c:\users\casper\source\repos\Update\Update\obj\Debug\Update.csprojResolveAssemblyReference.cache
+c:\users\casper\source\repos\Update\Update\obj\Debug\Update.csproj.CoreCompileInputs.cache
+c:\users\casper\source\repos\Update\Update\obj\Debug\Update.exe
+c:\users\casper\source\repos\Update\Update\obj\Debug\Update.pdb
+C:\Users\CASPER\Desktop\Update\Update\bin\Debug\Update.exe.config
+C:\Users\CASPER\Desktop\Update\Update\bin\Debug\Update.exe
+C:\Users\CASPER\Desktop\Update\Update\bin\Debug\Update.pdb
+C:\Users\CASPER\Desktop\Update\Update\obj\Debug\Update.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Update\Update\obj\Debug\Update.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Update\Update\obj\Debug\Update.exe
+C:\Users\CASPER\Desktop\Update\Update\obj\Debug\Update.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\Update\Update\bin\Debug\Update.exe.config
+C:\Users\CASPER\Desktop\Chosen One Project\Update\Update\bin\Debug\Update.exe
+C:\Users\CASPER\Desktop\Chosen One Project\Update\Update\bin\Debug\Update.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\Update\Update\obj\Debug\Update.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Chosen One Project\Update\Update\obj\Debug\Update.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Chosen One Project\Update\Update\obj\Debug\Update.exe
+C:\Users\CASPER\Desktop\Chosen One Project\Update\Update\obj\Debug\Update.pdb

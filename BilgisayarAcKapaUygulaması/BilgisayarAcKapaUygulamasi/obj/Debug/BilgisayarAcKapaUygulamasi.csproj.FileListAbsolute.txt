@@ -1,0 +1,54 @@
+c:\users\casper\documents\visual studio 2015\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe
+c:\users\casper\documents\visual studio 2015\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.pdb
+c:\users\casper\documents\visual studio 2015\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.dll
+c:\users\casper\documents\visual studio 2015\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.xml
+c:\users\casper\documents\visual studio 2015\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.exe
+c:\users\casper\documents\visual studio 2015\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.pdb
+C:\Users\casper\Documents\Visual Studio 2015\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csprojResolveAssemblyReference.cache
+E:\Data\C#\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe.config
+E:\Data\C#\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe
+E:\Data\C#\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.pdb
+E:\Data\C#\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.dll
+E:\Data\C#\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.xml
+E:\Data\C#\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csprojResolveAssemblyReference.cache
+E:\Data\C#\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csproj.CoreCompileInputs.cache
+E:\Data\C#\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.exe
+E:\Data\C#\Projects\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.pdb
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe.config
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.pdb
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.exe
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.pdb
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe.config
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.pdb
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.exe
+C:\Users\CASPER\Desktop\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe.config
+C:\Users\CASPER\Desktop\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe
+C:\Users\CASPER\Desktop\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CASPER\Desktop\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CASPER\Desktop\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.exe
+C:\Users\CASPER\Desktop\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.pdb
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe.config
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.exe
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\BilgisayarAcKapaUygulamasi.pdb
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.dll
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\bin\Debug\Newtonsoft.Json.xml
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csprojResolveAssemblyReference.cache
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csproj.CoreCompileInputs.cache
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.csproj.CopyComplete
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.exe
+E:\Chosen One Project\BilgisayarAcKapaUygulaması\BilgisayarAcKapaUygulamasi\obj\Debug\BilgisayarAcKapaUygulamasi.pdb

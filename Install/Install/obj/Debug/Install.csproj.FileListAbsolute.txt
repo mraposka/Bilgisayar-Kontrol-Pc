@@ -1,0 +1,23 @@
+C:\Users\CASPER\source\repos\Install\Install\bin\Debug\Install.exe.config
+C:\Users\CASPER\source\repos\Install\Install\bin\Debug\Install.exe
+C:\Users\CASPER\source\repos\Install\Install\bin\Debug\Install.pdb
+C:\Users\CASPER\source\repos\Install\Install\obj\Debug\Install.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\source\repos\Install\Install\obj\Debug\Install.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\Install\Install\obj\Debug\Install.exe
+C:\Users\CASPER\source\repos\Install\Install\obj\Debug\Install.pdb
+C:\Users\CASPER\Desktop\Install\Install\bin\Debug\Install.exe.config
+C:\Users\CASPER\Desktop\Install\Install\bin\Debug\Install.exe
+C:\Users\CASPER\Desktop\Install\Install\bin\Debug\Install.pdb
+C:\Users\CASPER\Desktop\Install\Install\obj\Debug\Install.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Install\Install\obj\Debug\Install.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Install\Install\obj\Debug\Install.exe
+C:\Users\CASPER\Desktop\Install\Install\obj\Debug\Install.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\Install\Install\bin\Debug\Install.exe.config
+C:\Users\CASPER\Desktop\Chosen One Project\Install\Install\bin\Debug\Install.exe
+C:\Users\CASPER\Desktop\Chosen One Project\Install\Install\bin\Debug\Install.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\Install\Install\obj\Debug\Install.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Chosen One Project\Install\Install\obj\Debug\Install.exe
+C:\Users\CASPER\Desktop\Chosen One Project\Install\Install\obj\Debug\Install.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\Install\Install\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\CASPER\Desktop\Chosen One Project\Install\Install\obj\Debug\Install.csproj.ResolveComReference.cache
+C:\Users\CASPER\Desktop\Chosen One Project\Install\Install\obj\Debug\Install.csprojResolveAssemblyReference.cache

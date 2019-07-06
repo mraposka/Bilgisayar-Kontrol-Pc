@@ -1,0 +1,14 @@
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\n0kayip Kontrol\n0kayip Kontrol\bin\Debug\n0kayip Kontrol.exe.config
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\n0kayip Kontrol\n0kayip Kontrol\bin\Debug\n0kayip Kontrol.exe
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\n0kayip Kontrol\n0kayip Kontrol\bin\Debug\n0kayip Kontrol.pdb
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\n0kayip Kontrol\n0kayip Kontrol\obj\Debug\n0kayip Kontrol.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\n0kayip Kontrol\n0kayip Kontrol\obj\Debug\n0kayip Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\n0kayip Kontrol\n0kayip Kontrol\obj\Debug\n0kayip Kontrol.exe
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\n0kayip Kontrol\n0kayip Kontrol\obj\Debug\n0kayip Kontrol.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\n0kayip Kontrol\n0kayip Kontrol\bin\Debug\n0kayip Kontrol.exe.config
+C:\Users\CASPER\Desktop\Chosen One Project\n0kayip Kontrol\n0kayip Kontrol\bin\Debug\n0kayip Kontrol.exe
+C:\Users\CASPER\Desktop\Chosen One Project\n0kayip Kontrol\n0kayip Kontrol\bin\Debug\n0kayip Kontrol.pdb
+C:\Users\CASPER\Desktop\Chosen One Project\n0kayip Kontrol\n0kayip Kontrol\obj\Debug\n0kayip Kontrol.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Chosen One Project\n0kayip Kontrol\n0kayip Kontrol\obj\Debug\n0kayip Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Chosen One Project\n0kayip Kontrol\n0kayip Kontrol\obj\Debug\n0kayip Kontrol.exe
+C:\Users\CASPER\Desktop\Chosen One Project\n0kayip Kontrol\n0kayip Kontrol\obj\Debug\n0kayip Kontrol.pdb
